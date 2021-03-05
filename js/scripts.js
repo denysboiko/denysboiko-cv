@@ -389,11 +389,11 @@ $(function () {
 		success: "valid",
 		submitHandler: function() {
 			let myForm = document.getElementById('cform');
-			let formData = FormData(myForm)
+			let formData = new FormData(myForm)
 			$.ajax({
 				url: '/',
 				type: 'post',
-				data: URLSearchParams(formData).toString(),
+				data: new URLSearchParams(formData).toString(),
 				beforeSend: () => {},
 				complete: () => {},
 				success: () => {
