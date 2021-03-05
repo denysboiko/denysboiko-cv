@@ -386,7 +386,22 @@ $(function () {
 				}
 			}
 		},
-		success: "valid"
+		success: "valid",
+		submitHandler: function() {
+			let myForm = document.getElementById('pizzaOrder');
+			let formData = FormData(myForm)
+			$.ajax({
+				url: '/',
+				type: 'post',
+				data: URLSearchParams(formData).toString(),
+				beforeSend: () => {},
+				complete: () => {},
+				success: () => {
+					$('#cform').fadeOut();
+					$('.alert-success').delay(1000).fadeIn();
+				}
+			});
+		}
 	});
 	
 	
