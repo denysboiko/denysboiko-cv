@@ -388,7 +388,7 @@ $(function () {
 		},
 		success: "valid",
 		submitHandler: function() {
-			let myForm = document.getElementById('pizzaOrder');
+			let myForm = document.getElementById('cform');
 			let formData = FormData(myForm)
 			$.ajax({
 				url: '/',
