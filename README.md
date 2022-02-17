@@ -23,7 +23,7 @@ either as a Team Lead or as a key developer
 ### American multinational technology company
 #### at EPAM Systems
 
-Dec 2021 - Now
+Dec 2021 - Present
 
 * Development and migration of a set of microservices to a new orchestration engine
 with a partial rewrite to Kotlin
