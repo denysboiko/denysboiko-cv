@@ -14,9 +14,9 @@ Software Engineer with Data Analysis/Data Engineering background. Have a strong 
 * Maven, Gradle, Bazel
 * Git, Mercurial
 
-## Experience
+## Experience by project
 
-### American multinational technology company (Big Five)
+### Software Engineer for an American multinational technology company (Big Five)
 #### at EPAM Systems
 
 Dec 2021 - Present
@@ -26,24 +26,21 @@ Dec 2021 - Present
 * Partial migration of a codebase to Kotlin
 * On-call support
 
-### American insurance and financial services company (Global 500)
+### Software Engineer for an American insurance and financial services company (Global 500)
 #### at EPAM Systems
 
 May 2018 - Oct 2021
 
-* Development and maintenance of a web-based reference data platform with a regular release schedule (2-3 months) and very active user base
+* Development and maintenance of a web-based reference data platform with a regular release schedule (2-3 months) and a very active user base
 * Reporting on daily statuses with a customer
-* Requirements clarification with customer's Functional team
+* Requirements clarification with the customer's Functional team
 * Identifying issues and suggesting enhancements in the established software development process
 * Coordinating teamwork and addressing information gaps
 * Design and implementation of several data transformation pipelines
 * Development of supporting data extraction web services
 * Developing POCs in the existing ecosystem (PowerBI reporting, Python ETL)
 
-[//]: # (* Development and maintenance of a rich reference data repository with a regular release schedule &#40;2-3 months&#41; and very active user base)
-[//]: # (* Developing POCs in the existing ecosystem)
-
-### Canadian-American multinational media company
+### Data Analyst for a Canadian-American multinational media company
 #### at EPAM Systems
 
 Nov 2017 - May 2018
@@ -54,17 +51,19 @@ Nov 2017 - May 2018
 * Created an interactive dashboard for content tag analysis (R Shiny)
 * Analyzing data consistency across different internal platforms
 
-### REACH Initiative (ACTED)
+### Data Analyst
+#### at REACH Initiative (ACTED)
 
 Dec 2016 - Nov 2017
 
 * Was responsible for overall data management and data analysis strategy in numerous research projects
-* Created an analysis framework for identifying tightly coupled socio-economic networks among the crisis-affected population (Network analysis and community detection algorithms)
-* Developed a web application aimed at consolidating information on incidents that require a humanitarian response and its dissemination among UN agencies and humanitarian actors
-* Led the design and development of several interactive web-mapping solutions and online dashboards to allow aid actors to access and analyze information in their programming easily
-* From scratch, created a course on data analysis tools and best practices for humanitarian aid actors and partnering organizations and successfully held several training sessions
+* Created an analysis framework for identifying tightly coupled socioeconomic networks among the crisis-affected population (Network analysis and community detection algorithms)
+* Developed a web application to consolidate information on incidents requiring a humanitarian response and its dissemination among UN agencies and humanitarian actors
+* Led the design and development of several interactive web-mapping solutions and online dashboards that provided aid actors access and analytics of the information related to their programming
+* Created a course on data analysis tools and best practices for humanitarian aid actors and partnering organizations from scratch and successfully held several training sessions
 
-### Metinvest SMC
+### Data Analyst
+#### at Metinvest SMC
 
 Jul 2015 - Dec 2016
 
@@ -72,7 +71,7 @@ Jul 2015 - Dec 2016
 * Developed several POCs (Sales Forecasting based on historical sales data; Logistics optimization - applied Traveling Salesperson Problem)
 * Created a system for stock turnover analysis (using Qlik)
 * Created a system for Debtor Turnover analysis (using PowerBI)
-* Implemented data integration project for reporting purposes which grew into a fully independent enterprise data platform (SQL Server Integration Services)
+* Implemented a data integration project for reporting purposes which grew into a fully independent enterprise data platform (SQL Server Integration Services)
 * Created numerous BI applications and automation solutions
 
 ## Education
