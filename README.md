@@ -2,11 +2,7 @@
 
 ## Summary
 
-Software Engineer with Data Analysis/Data Engineering background.
-Have a strong interest in Software Architecture and Design.
-Participated in the development of various data-centric web services,
-data pipelines, and supporting systems using Java and Spring
-either as a Team Lead or as a key developer
+Software Engineer with Data Analysis/Data Engineering background. Have a strong interest in Software Architecture and Design and clean code practices. Participated in the development of various data-centric web services, data pipelines, and supporting systems using Java, Kotlin, and Spring Framework either as a team lead or as a key developer.
 
 ## Skills
 
@@ -20,15 +16,17 @@ either as a Team Lead or as a key developer
 
 ## Experience
 
-### American multinational technology company
+### American multinational technology company (Big Five)
 #### at EPAM Systems
 
 Dec 2021 - Present
 
-* Development and migration of a set of microservices to a new orchestration engine
-with a partial rewrite to Kotlin
+* Development and maintenance of a set of microservices
+* Migration of several microservices to a custom in-house built orchestration framework
+* Partial migration of a codebase to Kotlin
+* On-call support
 
-### American insurance company (Global 500)
+### American insurance and financial services company (Global 500)
 #### at EPAM Systems
 
 May 2018 - Oct 2021
@@ -79,14 +77,8 @@ Jul 2015 - Dec 2016
 
 ## Education
 
-### Master’s degree of Economic Cybernetics
+### Master's Degree in Economic Cybernetics
 
 *2010–2016*
 
 The Faculty of Economics, Taras Shevchenko National University of Kyiv, Ukraine
-
-## Languages
-
-* English - Advanced (C1, IELTS 8.0)
-* Ukrainian - Native
-* Russian - Native
