@@ -2,13 +2,13 @@
 
 ## Summary
 
-Software Engineer with Data Analysis/Data Engineering background. Have a strong interest in Software Architecture and Design and clean code practices. Participated in the development of various data-centric web services, data pipelines, and supporting systems using Java, Kotlin, and Spring Framework either as a team lead or as a key developer.
+Experienced Software Engineer with a strong background in Data Analysis and Data Engineering. Skilled in Software Architecture and Design, with a focus on clean code practices. Proficient in Java, Kotlin, and Spring Framework. Led teams and played key roles in developing data-centric web services, data pipelines, and supporting systems. Committed to delivering high-quality solutions and driving successful project outcomes.
 
 ## Skills
 
 * Java
 * Kotlin
-* Spring Framework
+* Spring Framework (Boot, Data, Batch)
 * SQL / NoSQL (MongoDB)
 * MyBatis
 * Maven, Gradle, Bazel
@@ -21,9 +21,10 @@ Software Engineer with Data Analysis/Data Engineering background. Have a strong 
 
 Dec 2021 - Present
 
-* Development and maintenance of a set of microservices
-* Migration of several microservices to a custom in-house built orchestration framework
-* Partial migration of a codebase to Kotlin
+
+* Undertaken the migration of existing microservices to a custom in-house built orchestration framework used to model complex domain-specific business rules for inventory movement which generally improved fault tolerance, enhanced and simplified the configuration capabilities, and introduced advanced retry strategies 
+* Rewrote a substantial part of Java 11 codebase to Kotlin which significantly increased readability and maintainability, partly because the internal Async framework was replaced with Kotlin Coroutines
+* Design and implementation of various Spring Batch jobs intended to modernize the existing batch processing infrastructure for improved logging, scalability, and flow control features
 * On-call support
 
 ### Software Engineer for an American insurance and financial services company (Global 500)
